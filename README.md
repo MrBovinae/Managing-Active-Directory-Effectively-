@@ -14,7 +14,7 @@ Promotions Create Hidden Security Risk. Consider when Sarah moves from Marketing
 
 <h2>Utilities Used</h2>
 
-- <b>Tenable</b> 
+- <b>Active Directory</b> 
 - <b>Powershell</b> 
 
 <h2>Environments Used </h2>
