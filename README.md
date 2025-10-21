@@ -17,9 +17,13 @@ To start we will set the paramater for accounts not recently signed into.
 To balance the workload with the other teams it will be rolled out it phases.
 
 Week 1: Reset for users inactive for 120+ days
+
 Week 2: Reset for users inactive for 90+ days
+
 Week 3: Reset for users inactive for 60+ days
+
 Week 4: Reset for users inactive for 30+ days
+
 This spreads the load for help desk, SOC, (etc) and allows for the process to be refined as the modernization continues.
 
 <h1>Preventing This issue from reoccuring </h1>
